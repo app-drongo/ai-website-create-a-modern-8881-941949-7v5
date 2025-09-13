@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Home",
+    "route": "/",
+    "title": "Home | create-a-modern-8881",
+    "description": "Home page for create-a-modern-8881"
+  },
+  {
+    "name": "Properties",
+    "route": "/properties",
+    "title": "Properties | create-a-modern-8881",
+    "description": "Properties page for create-a-modern-8881"
+  },
+  {
+    "name": "Booking",
+    "route": "/book",
+    "title": "Booking | create-a-modern-8881",
+    "description": "Booking page for create-a-modern-8881"
+  }
+]
